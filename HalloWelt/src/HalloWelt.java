@@ -25,7 +25,7 @@ public class HalloWelt
 	public static void main(String[] args)
 	{
 		System.out.println("Schöne neue GitWelt");
-		System.out.println("Was neuesss");
+		System.out.println("Was neue");
 
 	}
 
